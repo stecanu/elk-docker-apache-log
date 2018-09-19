@@ -1,6 +1,6 @@
 # elk-docker-apache-log
 
-this docker image is a customization of [elk-docker] with a specifi pipeline for  management of  apache logs from  Filebeat, and perform [geoip analysis][elk-geoip].
+this docker image is a customization of [elk-docker] with a specific pipeline for  apache logs management  from  Filebeat, and perform [geoip analysis][elk-geoip].
 
 
 
